@@ -11,3 +11,11 @@ model.fit(x=x_train, y=y_train, epochs=ml.epoch, shuffle=True,
           callbacks=[csv_logger, checkpointer, learn_rate, early_stopping],
           validation_split=ml.split, verbose=2))
 ```
+Or the problem could be at the activation function:
+```
+output = Dense(2, activation='sigmoid')(x)
+```
+Right way:
+```
+output = Dense(1, activation='sigmoid')(x)
+```
