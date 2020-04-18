@@ -1,7 +1,7 @@
-# DAY _x_
-Date:
-Weather:
-Emotion:
+# DAY _4_
+Date: 2020.0417
+Weather: Rainy
+Emotion: Tired
 ## Work Content
 
 ## Idea

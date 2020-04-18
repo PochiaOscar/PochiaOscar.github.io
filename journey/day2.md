@@ -23,3 +23,7 @@ Emotion: _PERFECT_
 ## Paper/Document Reading
 
 ## Physical train or relax
+
+## TODO
+1. Follow the tutorial on Medium
+2. Finish models.py
