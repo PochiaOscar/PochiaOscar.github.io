@@ -1,5 +1,5 @@
 # DAY _5_
-Date: 2020.0418
+Date: 2020.04.18
 Weather: Rainy --> Sunny
 Emotion: Not bad
 ## Work Content

@@ -8,6 +8,4 @@ Emotion:
 
 ## Paper/Document Reading
 
-## Physical train or relax
-
 ## TODO
