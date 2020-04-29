@@ -6,6 +6,4 @@ Emotion:
 
 ## Idea
 
-## Paper/Document Reading
-
 ## TODO
