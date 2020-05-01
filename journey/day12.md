@@ -5,7 +5,6 @@ Emotion:
 ## Work Content
 1. Massage at noon
 2. Take a 2-hour nap until 8pm. Shoot!
-## Idea
 
 ## Paper/Document Reading
 1. Python document

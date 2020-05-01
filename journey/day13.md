@@ -5,8 +5,6 @@ Emotion:
 ## Work Content
 1. Working on the REST API
 
-## Idea
-
 ## Paper/Document Reading
 1. Python document about 'class' & 'args&kwargs'
 2. DRF: Generic View API

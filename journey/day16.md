@@ -4,7 +4,3 @@ Weather: Sunny
 Emotion: Bad
 ## Work Content
 1. Figure out the importance of my current works by ordering them.
-
-## Idea
-
-## TODO

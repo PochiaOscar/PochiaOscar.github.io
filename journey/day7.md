@@ -7,7 +7,6 @@ Emotion: Tired and painful
 
 ## Idea
 1. Eventually, model.py and serializer.py cooperate in view.py
-2.
 
 ## Paper/Document Reading
 1. Read DRF: response and requests, class view module
@@ -18,4 +17,4 @@ Emotion: Tired and painful
 3. Check gis-related Django packages. What Django can do with GIS type data?
 4. Run the test with local code.
 5. Deploy web campus in docker container
-6. Check how to connect 2 containers. 
+6. Check how to connect 2 containers.
