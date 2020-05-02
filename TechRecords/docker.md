@@ -1,4 +1,23 @@
 # 加载本地内容
+## Docker compose
+Use .yml file to save the configures for several containers
+```
+identidock: _1_
+build: . _2_
+ports: _3_
+    - "5000:5000"
+environment: _4_
+    ENV: DEV
+volumes: _5_
+    - ./app:/app
+```
+1. Defines the name of the container
+2. Here, we use _build_, it tells we are using the Dockerfile at current path to build container
+3. Defines the open port
+4. Defines the environment variable
+5. Mount local folder './app' as '/app' in the containers
+
+
 ## docker挂载本地目录
 docker可以支持把一个宿主机上的目录挂载到镜像里。
 
